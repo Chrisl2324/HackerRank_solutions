@@ -1,6 +1,3 @@
-
-    
-
 def set_mutations(set_a, n):
     '''Perform different mutations on a given set'''
     isValid = False
